@@ -1,16 +1,9 @@
 <p align="center">
   <img width="120" src="app/src/main/res/mipmap/ic_launcher.png" />
-  <h1 align="center">EteSync - Secure Data Sync</h1>
+  <h1 align="center">SyncThing2 - Secure Data Sync</h1>
 </p>
 
 Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars and tasks (Android client).
-
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-      alt="Get it on Google Play" 
-      height="80" />](https://play.google.com/store/apps/details?id=com.etesync.syncadapter)
-[<img src="https://www.etesync.com/static/img/fdroid-badge.fe865d4c8f63.png"
-      alt="Get it on F-Droid"
-      height="80" />](https://f-droid.org/app/com.etesync.syncadapter)
 
 ![GitHub tag](https://img.shields.io/github/tag/etesync/android.svg)
 [![Chat with us](https://img.shields.io/badge/chat-IRC%20|%20Matrix%20|%20Web-blue.svg)](https://www.etebase.com/community-chat/)
